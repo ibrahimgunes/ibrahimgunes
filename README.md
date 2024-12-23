@@ -20,8 +20,8 @@ I’m a Software Engineer with a passion for crafting scalable, efficient, and i
 🌱 Currently Learning\
 	•	Advanced AI techniques\
 	•	Developing mobile applications\
-
+\
 📫 Let’s Connect\
 	•	LinkedIn: https://www.linkedin.com/in/ibrahimgunes76\
-	•	Email: gnes36@gmail.com \
+	•	Email: gnes36@gmail.com\
  
