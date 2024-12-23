@@ -22,6 +22,6 @@ I’m a Software Engineer with a passion for crafting scalable, efficient, and i
 	•	Developing mobile applications\
 \
 📫 Let’s Connect\
-	•	LinkedIn: https://www.linkedin.com/in/ibrahimgunes76\
-	•	Email: gnes36@gmail.com\
+	•	LinkedIn: https://www.linkedin.com/in/ibrahimgunes76
+	•	Email: gnes36@gmail.com
  
