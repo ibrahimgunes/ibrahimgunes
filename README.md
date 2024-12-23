@@ -2,9 +2,9 @@
 
 I’m a Software Engineer with a passion for crafting scalable, efficient, and innovative solutions. I specialize in:\
 	•	Backend Development: Java, Spring Framework (Spring Boot, Spring REST, Spring Batch)\
-	•	Frontend and Mobile Development: SwiftUI, Web Development, JSF\
+	•	Frontend and Mobile Development: Angular, SwiftUI, Web Development, JSF\
 	•	Linux Systems: Automation, scripting, and server management\
-	•	Databases: Relational (MySQL, PostgreSQL) and NoSQL (Redis, MongoDB)\
+	•	Databases: Relational (Oracle DB, MySQL, PostgreSQL) \
 	•	Machine Learning: Building predictive models, experimenting with data\
 	•	Generative AI: Working with Stable Diffusion and cutting-edge AI tools\
 \
@@ -15,7 +15,7 @@ I’m a Software Engineer with a passion for crafting scalable, efficient, and i
 	•	Frameworks & Libraries: Spring, Firebase, TensorFlow\
 	•	Cloud Services: AWS (S3, EC2, Lambda), Firebase\
 	•	DevOps: Docker, Kubernetes, Linux Administration\
-	•	Databases: MySQL, PostgreSQL, MongoDB, Redis\
+	•	Databases: MySQL, PostgreSQL, Oracle DB, Redis\
 \
 🌱 Currently Learning\
 	•	Advanced AI techniques\
